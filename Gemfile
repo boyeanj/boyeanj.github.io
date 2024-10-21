@@ -9,3 +9,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+gem "jekyll-livereload", "~> 0.2.2"
