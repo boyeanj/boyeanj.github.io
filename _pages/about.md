@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<meta name="google-site-verification" content="x3w2CkEWgQqI5yQh_jwDZOc8etX1q3s4FJEJdKU0iz4" />
 ---
 
 I'm planning on using this as a place to keep track of my personal projects.  My primary area of interest is macroeconomics, though as long as a topic is somewhat related to either economics or mathematics I tend to find it fascinating.   
