@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Nolan Boyea"
 title_separator          : "-"
 name                     : &name "Nolan Boyea"
-description              : &description "I am a Junior Quantitative Economics and Mathematics major at Miami University.  I love interesting discussions of both micro and macroeconomics, and enjoy dabbling in mathematics, especially tilings "
+description              : &description "Nolan Boyea's academic portfolio and resume"
 url                      : https://boyeanj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Nolan Boyea"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Junior Quantitative Economics and Mathematics major at Miami University.  I love interesting discussions of both micro and macroeconomics, and enjoy dabbling in mathematics, especially tilings "
+  bio              : "M.A. in Economics candidate at Miami University pursuing career in economic research." 
   location         : "Oxford, Ohio"
   employer         : "Miami University"
   uri              : # URL
